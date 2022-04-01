@@ -3,11 +3,11 @@ Documentation for the Pterosoar drone
 
 Documentation includes: 
 
-    preflight prep guide 
+    Preflight prep guide 
 
-    normal procedures 
+    Normal procedures 
     
-    emergency procedures 
+    Emergency procedures 
   
     TC Drone AIM 
 
