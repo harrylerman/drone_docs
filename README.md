@@ -21,7 +21,7 @@ Documentation includes:
 
 All documents are based on the CARs Part IX; Standard 922 - RPAS Safety Assurance; Advisory Circular AC-922-01; and the submission site for a drone Safety Assurance.
 
-CARs Part IX: https://lois-laws.justice.gc.ca/eng/regulations/SOR-96-433/FullText.html#s-901.01
+CARs Part IX: https://lois-laws.justice.gc.ca/eng/regulations/SOR-96-433/FullText.html#s-900.01
 
 Standard 922: https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-922-rpas-safety-assurance-canadian-aviation-regulations-cars
 
