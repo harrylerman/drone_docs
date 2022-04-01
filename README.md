@@ -23,8 +23,8 @@ All documents are based on the CARs Part IX, Standard 922 - RPAS Safety Assuranc
 
     CARs Part IX: https://lois-laws.justice.gc.ca/eng/regulations/SOR-96-433/FullText.html#s-901.76
 
-   Standard 922: https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-922-rpas-safety-assurance-canadian-aviation-regulations-cars
+    Standard 922: https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-922-rpas-safety-assurance-canadian-aviation-regulations-cars
 
-   AC-922-01: https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no-922-001
+    AC-922-01: https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no-922-001
 
     RPA Safety Assurance submission form: https://tc.canada.ca/en/aviation/drone-safety/help-drone-safety-partners-manufacturers/submit-drone-safety-assurance-declaration-overview
