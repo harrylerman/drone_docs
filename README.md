@@ -6,8 +6,8 @@ Documentation includes:
     preflight prep guide 
 
     normal procedures 
-
-   emergency procedures 
+    
+    emergency procedures 
   
     TC Drone AIM 
 
