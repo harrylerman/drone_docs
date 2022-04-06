@@ -17,7 +17,9 @@ Documentation includes:
 
     Maintenance log
 
-    Operations Manual (work in progress)
+    Operations Manual
+    
+    Pos-Alt-Verification (for operations in controlled airspace)
 
 All documents are based on the CARs Part IX; Standard 922 - RPAS Safety Assurance; Advisory Circular AC-922-01; and the submission site for a drone Safety Assurance.
 
