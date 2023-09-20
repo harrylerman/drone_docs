@@ -23,7 +23,7 @@ Documentation includes:
 
     Pos-Alt Addendum: Addendum to the above verification for the new F9P module.
 
-    Drone mapping procedures: Procedures to follow for each drone mapping outing. 
+    Mapping procedures: Procedures to follow for each drone mapping outing. 
 
 All documents are based on the CARs Part IX; Standard 922 - RPAS Safety Assurance; Advisory Circular AC-922-01; and the submission site for a drone Safety Assurance.
 
