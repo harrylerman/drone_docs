@@ -3,23 +3,27 @@ Documentation for the Pterosoar drone
 
 Documentation includes: 
 
-    Preflight prep guide 
+    Preflight prep guide: quick guide to ensure compliance with the CARs for every drone flight.
 
-    Normal procedures 
+    Normal procedures: Required by CARs. Pre-flight, Takeoff, Launch, Approach, Landing procedures.
     
-    Emergency procedures 
+    Emergency procedures: Required by CARs: Control station failure, equipment failure, RPA failure, Lost Link, Flyaway, Flight Termination procedures. 
   
-    TC Drone AIM 
+    TC Drone AIM: Fantastic source of knowledge for drone flying and the regs, doc from TC.
 
-    TC CARs Part IX
+    TC CARs Part IX: Drone CARs.
 
-    Flight log
+    Flight log: Logbook form.
 
-    Maintenance log
+    Maintenance log: Logbook form.
 
-    Operations Manual
+    Operations Manual: Required by CARs. Sections: General, Description, Limitations, Hazards-Warnings-Protections, Normal/Emergency procedures, Handling-Care-Maintenance, Supplements/Payloads.
     
-    Pos-Alt-Verification (for operations in controlled airspace)
+    Pos-Alt-Verification (for operations in controlled airspace): Verification of lateral/vertical position accuracy.
+
+    Pos-Alt Addendum: Addendum to the above verification for the new F9P module.
+
+    Drone mapping procedures: Procedures to follow for each drone mapping outing. 
 
 All documents are based on the CARs Part IX; Standard 922 - RPAS Safety Assurance; Advisory Circular AC-922-01; and the submission site for a drone Safety Assurance.
 
